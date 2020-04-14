@@ -8,7 +8,7 @@
     <table style="margin:20px auto;" border="1">
         <tr>
             <th>ID. Jenis Paket</th>
-            <th>Nama Jenis Paket</th>
+            <th>Nama Jenis</th>
             <th>Action</th>
         </tr>
         <?php
